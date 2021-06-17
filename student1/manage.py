@@ -69,7 +69,7 @@ while True:
   print("2 - Display Student Details")
  #print("3 - Update Student")
   print("3 - Delete Student")
-  print("4 - Serach Student Details")
+  print("4 - Search Student Details")
   print("5 - Exit")
   print("-"*50)
 
